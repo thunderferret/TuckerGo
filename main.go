@@ -1,9 +1,9 @@
 package main
 
 import (
-	"./banking"
-
 	"fmt"
+
+	"github.com/thunderferret/TuckerGo/banking"
 )
 
 func main() {
